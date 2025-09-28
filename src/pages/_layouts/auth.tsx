@@ -4,7 +4,7 @@ import backgroundImg from "@/assets/background.png"
 
 export function AuthLayout() {
     return (
-        <div className="min-h-screen grid grid-cols-2 antialiased p-16">
+        <div className="min-h-screen grid grid-cols-2 antialiased py-16 px-6">
             <div className="flex flex-col items-start">
                 <Logo/>
                 <div className="h-full flex items-center justify-center w-full">
